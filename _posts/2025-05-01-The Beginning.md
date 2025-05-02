@@ -1,6 +1,6 @@
 
 ___
-title: "TheBeginning"
+title: "The Beginning"
 date: 2025-05-01
 ___
 
